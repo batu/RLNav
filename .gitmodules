@@ -1,0 +1,9 @@
+[submodule "RLAgency"]
+	path = RLAgency
+	url = https://github.com/batu/RLAgency.git
+[submodule "NavigationEnvironments"]
+	path = NavigationEnvironments
+	url = https://github.com/batu/NavigationEnvironments.git
+[submodule "ProjNar"]
+	path = ProjNar
+	url = https://github.com/batu/ProjNar.git
